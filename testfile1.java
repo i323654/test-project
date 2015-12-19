@@ -8,3 +8,4 @@ private 1 commit
 private 2 commit
 private2 1 commit
 master after private2 first change
+add master message after two branch
