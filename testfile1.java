@@ -6,4 +6,5 @@ int 5
 commit 6
 private 1 commit
 private 2 commit
+private2 1 commit
 master after private2 first change
